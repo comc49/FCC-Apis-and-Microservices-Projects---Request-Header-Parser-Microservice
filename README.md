@@ -1,27 +1,12 @@
-Welcome to Glitch
+Apis and Microservices Projects - Request Header Parser Microservice
 =================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+Build a full stack JavaScript app that is functionally similar to this: https://dandelion-roar.glitch.me/.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+Working on this project will involve you writing your code on Glitch on our starter project. 
 
-Find out more [about Glitch](https://glitch.com/about).
+After completing this project you can copy your public glitch url (to the homepage of your app) into this screen to test it! Optionally you may choose to write your project on another platform but it must be publicly visible for our testing.
 
+Start this project on Glitch using this link or clone this repository on GitHub! If you use Glitch, remember to save the link to your project somewhere safe!
 
-Your Project
-------------
-
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
-
-Made by [Fog Creek](https://fogcreek.com/)
--------------------
-
-\ ゜o゜)ノ
+By Brian Koo
